@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background: #f7f7f7;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+  }
+  
+  input, button {
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  .link-buttons {
+    display: flex;
+    justify-content: space-between;
+  }
+  
